@@ -59,7 +59,7 @@ const handleSubmit = async (e) => {
       
       <div className="w-full lg:w-1/2 flex justify-center">
         <img
-          src="/portfolio/assets/phone.png"
+          src="/assets/phone.png"
           alt="Girl checking phone"
           className="w-80 sm:w-96 object-contain"
           data-aos="fade-up"
