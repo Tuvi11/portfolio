@@ -12,7 +12,7 @@ export const About = () => {
             className='flex flex-wrap justify-center gap-4 relative'>
                 <div className='h-[200px] sm:h-[300px] w-[300px] sm:w-[400px] lg:h-[300px] lg:w-[500px] bg-gradient-to-1
                 from-[#6d2897] via-[#6c95f5] to-[#bb61c5] absolute transform rotate-12 z-0 right-5 -top-2 md:top-10 rounded-full'></div>
-                <img src="/portfolio/assets/about.png" alt="about image" 
+                <img src="/assets/about.png" alt="about image" 
                 className='relative  z-10 w-56 h-64 sm:w-72 sm:h-80 md:w-96 md:h-[28rem] rounded-lg shadow-lg
                 '/>
             </figure>
