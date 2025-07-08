@@ -7,22 +7,22 @@ import 'aos/dist/aos.css'
 const skills = [
   {
     name: "Frontend",
-    image: ["/portfolio/assets/js.png", "/portfolio/assets/react.png", "/portfolio/assets/tailwind.png"],
+    image: ["/assets/js.png", "/assets/react.png", "/assets/tailwind.png"],
     desc: "Experienced in building interactive UIs using JS, React, and TailwindCSS."
   },
   {
     name: "Backend",
-    image: ["/portfolio/assets/node.png", "/portfolio/assets/express.png", "/portfolio/assets/api.png"],
+    image: ["/assets/node.png", "/assets/express.png", "/assets/api.png"],
     desc: "Skilled in creating robust backend APIs using Node.js and Express."
   },
   {
     name: "Database",
-    image: ["/portfolio/assets/sql.png", "/portfolio/assets/mongodb.png", "/portfolio/assets/prisma.png"],
+    image: ["/assets/sql.png", "/assets/mongodb.png", "/assets/prisma.png"],
     desc: "Comfortable with relational and NoSQL databases like SQL, MongoDB, and Prisma ORM."
   },
   {
     name: "Languages",
-    image: ["/portfolio/assets/c.png", "/portfolio/assets/cpp.png", "/portfolio/assets/python.png"],
+    image: ["/assets/c.png", "/assets/cpp.png", "/assets/python.png"],
     desc: "Proficient in C, C++, and Python for problem solving and backend logic."
   }
 ];
