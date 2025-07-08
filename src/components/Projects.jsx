@@ -4,37 +4,37 @@ const projects = [
   {
     title: "MERN Blog Application",
     description: "middleware, jsonwebtoken, bcryptjs usage to register, login and add blogs",
-    image: "/portfolio/assets/blogs.png",
+    image: "/assets/blogs.png",
     link: "https://github.com/Soujanya02V/mern-blog",
   },
   {
     title: "REACT Form Application",
     description: "Simple form submission application in React + VITE.",
-    image: "/portfolio/assets/connect.png",
+    image: "/assets/connect.png",
     link: "https://github.com/Soujanya02V/react_level_2",
   },
   {
     title: "REACT Contact Directory",
     description: "LocalStorage usage to store the contacts and display them on screen",
-    image: "/portfolio/assets/contact.png",
+    image: "/assets/contact.png",
     link: "https://github.com/Soujanya02V/react_level_4",
   },
   {
     title: "REACT Dice Game",
     description: "Simple Dice Game app in React to build logic of calculating score",
-    image: "/portfolio/assets/dice.png",
+    image: "/assets/dice.png",
     link: "https://github.com/Soujanya02V/react_level_3",
   },
   {
     title: "MERN Food Delivery Application",
     description: "On quantity amount calculation and real-time updating cart feature with user login",
-    image: "/portfolio/assets/food.png",
+    image: "/assets/food.png",
     link: "https://github.com/Soujanya02V/mern",
   },
   {
     title: "Node URL Shortener App",
     description: "Complete backend project to shorten the entered URL using API",
-    image: "/portfolio/assets/url.png",
+    image: "/assets/url.png",
     link: "https://github.com/Soujanya02V/backend_project_1",
   },
 ];
