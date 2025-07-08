@@ -37,21 +37,21 @@ dynamic tech environment.
                     </p>
                     <div  className='flex items-center space-x-4 mb-6'>
                          <a href="https://www.linkedin.com/in/soujanya-maharudra-896920291/ ">
-                            <img src="/portfolio/assets/linkedin.png" alt="linkedin" className='w-11 h-11 hover:scale-110 transition-transform duration-200'/>
+                            <img src="/assets/linkedin.png" alt="linkedin" className='w-11 h-11 hover:scale-110 transition-transform duration-200'/>
                         </a>
                         <a href="https://github.com/Soujanya02V">
-                            <img src="/portfolio/assets/github.png" alt="github" className='w-11 h-11 hover:scale-110 transition-transform duration-200'/>
+                            <img src="/assets/github.png" alt="github" className='w-11 h-11 hover:scale-110 transition-transform duration-200'/>
                         </a>
                        
                         <a href="https://www.instagram.com/sow_zanya/">
-                            <img src="/portfolio/assets/insta.png" alt="instagram" className='w-14 h-14 hover:scale-110 transition-transform duration-200'/>
+                            <img src="/assets/insta.png" alt="instagram" className='w-14 h-14 hover:scale-110 transition-transform duration-200'/>
                         </a>
                         <a href="mailto:soujanyabailawad@gmail.com">
-                            <img src="/portfolio/assets/email.png" alt="email" className='w-11 h-11 hover:scale-110 transition-transform duration-200'/>
+                            <img src="/assets/email.png" alt="email" className='w-11 h-11 hover:scale-110 transition-transform duration-200'/>
                         </a>
                         
                     </div>
-                    <a href="/portfolio/assets/Soujanya_Maharudra_CV.pdf" download>
+                    <a href="/assets/Soujanya_Maharudra_CV.pdf" download>
                         <button className='inline-flex text-white border-2 py-2 px-6 focus:outline-none hover:bg-[#801b9c] hover:shadow-[0_0_40px_rgba(128,0,128,0.7)] rounded-full text-lg'>
                             Download CV
                         </button>
@@ -60,7 +60,7 @@ dynamic tech environment.
                 </section>
 
                 <figure data-aos="fade-up" data-aos-delay="500" className='flex-1 flex justify-center md:justify-end mt-0'>
-                    <img src="/portfolio/assets/imghero.png" alt="hero image" className='h-[300px] sm:h-[400px] md:h-[485px] e-[250px] sm:w-[480px] object-cover rounded-lg'/>
+                    <img src="/assets/imghero.png" alt="hero image" className='h-[300px] sm:h-[400px] md:h-[485px] e-[250px] sm:w-[480px] object-cover rounded-lg'/>
                 </figure>
              </main>
             </div>
