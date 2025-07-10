@@ -27,13 +27,11 @@ const Hero = () => {
                             Soujanya Maharudra
                         </h1>
                         <h2 className='text-xl sm:text-4xl md:text-2xl font-bold  text-[#3e0f4a] md:text-[#c744ec] mb-2'>
-                            FullStack Developer
+                            FullStack Developer and DSA Enthusiast
                         </h2>
                     </header>
                     <p className='text-base sm:text-lg md:text-lg text-gray-200 mb-6'>
-                        Aspiring Full Stack Developer with a focus on MERN Stack. Skilled in building responsive and scalable 
-web apps. Passionate about clean code and user-centric design. Seeking to contribute and grow in a 
-dynamic tech environment. 
+                        Passionate about full-stack development, driven by DSA logic, and curious about math and the stories hidden in data.
                     </p>
                     <div  className='flex items-center space-x-4 mb-6'>
                          <a href="https://www.linkedin.com/in/soujanya-maharudra-896920291/ ">
