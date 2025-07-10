@@ -28,20 +28,25 @@ export const About = () => {
                     </h1>
                 </header>
                 <p className='text-base sm:text-lg md:text-xl text-gray-300 mb-4 leading-relaxed'>
-            I'm a full stack developer with a passion for turning ideas into interactive digital experiences. With a strong foundation in the MERN stack, I enjoy building fast, intuitive, and user-friendly web applications.
+            Hey! I’m Soujanya Maharudra, a CSE undergrad exploring full-stack development and DSA (with occasional wins and frequent Google searches).
+
           </p>
 
         
           {showMore && (
             <p className='text-base sm:text-lg md:text-xl text-gray-300 mb-6 leading-relaxed'>
-              My work blends technical precision with creative problem-solving — whether it’s designing responsive interfaces or managing complex backend logic.
-              Beyond the code, I’m constantly exploring new tools and trends in the tech space, aiming to bring futuristic and meaningful solutions to life. When I'm not debugging or deploying, you’ll find me experimenting with UI animations or learning about how technology shapes our everyday lives.
+             I build full stack projects using React, Node.js, and MongoDB — and somehow they work (most of the time).
+                <br></br>
+             Currently trying to make peace with DSA.<br></br>
+             I enjoy learning new things, breaking my own code, and googling errors like it’s a reflex.<br></br>
+            Lately been drawn to anything that involves patterns,math,stat, logic, or way too many charts. — numbers make more sense than my code sometimes.
+             Still figuring it all out, but at least the GitHub graph looks busy.
             </p>
           )}
                 <footer>
                     <button 
                     onClick={handleToggle} className='inline-flex text-white border-2 py-2 px-4 sm:px-6 focus:outline-none
-                    hover:bg-[#801b9c] hover:shadow-[#0_0_40px_rgba(128,0,128,0.7)] rounded-full text sm:text-lg'>{showMore ? 'Show Less' : 'Know More'}</button>
+                    hover:bg-[#801b9c] hover:shadow-[#0_0_40px_rgba(128,0,128,0.7)] rounded-full text sm:text-lg'>{showMore ? 'Hide Chaos' : 'Curious'}</button>
                 </footer>
 
             </article>
