@@ -62,7 +62,7 @@ const Hero = () => {
                 </figure>
 
              </main>
-             </main>
+             
             </div>
 
              
