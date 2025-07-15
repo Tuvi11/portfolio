@@ -60,7 +60,7 @@ const Hero = () => {
                <img
                src="/assets/souju.png"
            alt="hero image"
-            className="h-[500px] sm:h-[400px] md:h-[500px] lg:h-[600px] w-auto object-contain rounded-lg"
+            className="h-[400px] sm:h-[400px] md:h-[500px] lg:h-[600px] w-auto object-contain rounded-lg"
              />
 
 
