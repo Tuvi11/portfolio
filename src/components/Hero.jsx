@@ -58,11 +58,15 @@ const Hero = () => {
                 </section>
 
                 <figure data-aos="fade-up" data-aos-delay="500" className='flex-1 flex justify-center md:justify-end mt-0'>
-                    <img 
+                   <video 
   src="/portfolio/assets/vid.gif" 
-  alt="hero animation" 
   className="h-[300px] sm:h-[400px] md:h-[485px] e-[250px] sm:w-[480px] object-cover rounded-lg" 
+  autoPlay 
+  muted 
+  loop 
+  playsInline
 />
+
 
                 </figure>
              </main>
